@@ -8,3 +8,6 @@ All solved problems organized by pattern/category.
 
 ## Arrays & Hashing
 - [Codeforces Problem](./Codeforces/Unknown/Codeforces%20Problem) - *Unknown*
+
+## Greedy
+- [Codeforces Problem](./Codeforces/Unknown/Codeforces%20Problem) - *Unknown*
