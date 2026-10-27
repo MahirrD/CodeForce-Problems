@@ -4,7 +4,7 @@ public class Practice {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		
+		//main logic
 		int n = sc.nextInt();
 		int[][] arr = new int[n][3];
 		for(int row = 0; row < n; row++) {
